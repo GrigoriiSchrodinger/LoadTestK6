@@ -4,14 +4,14 @@
 
 ---
 
-![](k6_logo.png)
+<img src="k6_logo.png">
 
 # Installation
 > Запуск docker compose
 ```bash
 docker compose up
 ```
-скорее всего после запуска compose, при открытий grafana dashboards будет кричать об ошибки,
+- скорее всего после запуска compose, при открытий grafana dashboards будет кричать об ошибки,
 мне честно неизвестно почему. Решить проблему можно при ручном перезапуске контейнера grafana
 ---
 > Запуск тестов
