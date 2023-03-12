@@ -4,6 +4,8 @@
 
 ---
 
+![](k6_logo.png)
+
 # Installation
 > Запуск docker compose
 ```bash
