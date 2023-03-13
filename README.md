@@ -1,10 +1,10 @@
 <div align="center">
 	     <h1>k6 LoadTesting</h1>
+	<img src="k6_logo.png">
 </div>
 
 ---
 
-<img src="k6_logo.png">
 
 # Installation
 > Запуск docker compose
