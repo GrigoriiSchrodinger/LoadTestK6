@@ -4,7 +4,7 @@
 
 ---
 
-<img src="k6_logo.png">
+<img src="accet/image/k6_logo.png">
 
 # Installation
 > Запуск docker compose
