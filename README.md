@@ -1,11 +1,10 @@
 <div align="center">
-	     <h1>k6 LoadTesting</h1>
+        <img src="accet/image/k6_logo.png" alt="LoadTesting">
 </div>
 
+# k6 LoadTesting 📈
+
 ---
-
-<img src="accet/image/k6_logo.png">
-
 # Installation
 > Запуск docker compose
 ```bash
